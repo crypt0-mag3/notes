@@ -21,3 +21,6 @@ This is the repository for my random notes on a variety of subjects revolving ar
 16. Eternal Blue
 17. North Korean Threat Actors -- APT28 & APT31: a dossier
 18. Russian Disinformation Campaigns: Dezinformatsiya
+
+
+This is a working repository of documents. All opinions expressed are my own. I cited evidence where necessary and I do not claim that information presented is whole-- this is a working and ever progressing portfolio of information.
